@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "jIgcqrG8EYJpaKd5ZgzXZkj5YjorLl6GzEnA2HS1J78=",
+  "Source": "WebChatApplication",
+  "BasePath": "_content/WebChatApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebChatApplication\\wwwroot",
+      "Source": "WebChatApplication",
+      "ContentRoot": "C:\\Users\\Bbronson\\source\\repos\\ToyotaPubSubPOC\\WebChatApplication\\wwwroot\\",
+      "BasePath": "_content/WebChatApplication",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Bbronson\\source\\repos\\ToyotaPubSubPOC\\WebChatApplication\\wwwroot\\index.html",
+      "SourceId": "WebChatApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bbronson\\source\\repos\\ToyotaPubSubPOC\\WebChatApplication\\wwwroot\\",
+      "BasePath": "_content/WebChatApplication",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

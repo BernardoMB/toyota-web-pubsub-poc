@@ -1,0 +1,45 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+/AngularNotifications N-Tier App/WebPubSubAngular/dist
+/AngularNotifications N-Tier App/WebPubSubAngular/tmp
+/AngularNotifications N-Tier App/WebPubSubAngular/out-tsc
+# Only exists if Bazel was run
+/AngularNotifications N-Tier App/WebPubSubAngular/bazel-out
+
+# dependencies
+/AngularNotifications N-Tier App/WebPubSubAngular/node_modules
+
+# profiling files
+chrome-profiler-events*.json
+
+# IDEs and editors
+/AngularNotifications N-Tier App/WebPubSubAngular/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+
+# misc
+/AngularNotifications N-Tier App/WebPubSubAngular/.sass-cache
+/AngularNotifications N-Tier App/WebPubSubAngular/connect.lock
+/AngularNotifications N-Tier App/WebPubSubAngular/coverage
+/AngularNotifications N-Tier App/WebPubSubAngular/libpeerconnection.log
+npm-debug.log
+yarn-error.log
+testem.log
+/AngularNotifications N-Tier App/WebPubSubAngular/typings
+
+# System Files
+.DS_Store
+Thumbs.db

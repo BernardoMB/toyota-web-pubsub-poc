@@ -1,0 +1,93 @@
+C:\Users\bmond\source\repos\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\bmond\source\repos\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\appsettings.json
+C:\Users\bmond\source\repos\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\ToyoteWebPubSub.exe
+C:\Users\bmond\source\repos\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\ToyoteWebPubSub.deps.json
+C:\Users\bmond\source\repos\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\ToyoteWebPubSub.runtimeconfig.json
+C:\Users\bmond\source\repos\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\ToyoteWebPubSub.dll
+C:\Users\bmond\source\repos\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\ref\ToyoteWebPubSub.dll
+C:\Users\bmond\source\repos\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\ToyoteWebPubSub.pdb
+C:\Users\bmond\source\repos\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\bmond\source\repos\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\Azure.Messaging.WebPubSub.dll
+C:\Users\bmond\source\repos\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bmond\source\repos\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\bmond\source\repos\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bmond\source\repos\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bmond\source\repos\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bmond\source\repos\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\bmond\source\repos\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\ToyoteWebPubSub.csproj.AssemblyReference.cache
+C:\Users\bmond\source\repos\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\ToyoteWebPubSub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmond\source\repos\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\ToyoteWebPubSub.AssemblyInfoInputs.cache
+C:\Users\bmond\source\repos\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\ToyoteWebPubSub.AssemblyInfo.cs
+C:\Users\bmond\source\repos\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\ToyoteWebPubSub.csproj.CoreCompileInputs.cache
+C:\Users\bmond\source\repos\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\ToyoteWebPubSub.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bmond\source\repos\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\ToyoteWebPubSub.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bmond\source\repos\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\bmond\source\repos\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\bmond\source\repos\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\scopedcss\bundle\ToyoteWebPubSub.styles.css
+C:\Users\bmond\source\repos\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\ToyoteWebPubSub.csproj.CopyComplete
+C:\Users\bmond\source\repos\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\ToyoteWebPubSub.dll
+C:\Users\bmond\source\repos\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\ref\ToyoteWebPubSub.dll
+C:\Users\bmond\source\repos\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\ToyoteWebPubSub.pdb
+C:\Users\bmond\source\repos\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\ToyoteWebPubSub.genruntimeconfig.cache
+C:\Users\Bbronson\OneDrive - Toyota Industries Group North America\Desktop\ToyotaPubSubPOC\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Bbronson\OneDrive - Toyota Industries Group North America\Desktop\ToyotaPubSubPOC\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\appsettings.json
+C:\Users\Bbronson\OneDrive - Toyota Industries Group North America\Desktop\ToyotaPubSubPOC\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\ToyoteWebPubSub.exe
+C:\Users\Bbronson\OneDrive - Toyota Industries Group North America\Desktop\ToyotaPubSubPOC\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\ToyoteWebPubSub.deps.json
+C:\Users\Bbronson\OneDrive - Toyota Industries Group North America\Desktop\ToyotaPubSubPOC\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\ToyoteWebPubSub.runtimeconfig.json
+C:\Users\Bbronson\OneDrive - Toyota Industries Group North America\Desktop\ToyotaPubSubPOC\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\ToyoteWebPubSub.dll
+C:\Users\Bbronson\OneDrive - Toyota Industries Group North America\Desktop\ToyotaPubSubPOC\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\ToyoteWebPubSub.pdb
+C:\Users\Bbronson\OneDrive - Toyota Industries Group North America\Desktop\ToyotaPubSubPOC\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Bbronson\OneDrive - Toyota Industries Group North America\Desktop\ToyotaPubSubPOC\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\Azure.Messaging.WebPubSub.dll
+C:\Users\Bbronson\OneDrive - Toyota Industries Group North America\Desktop\ToyotaPubSubPOC\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Bbronson\OneDrive - Toyota Industries Group North America\Desktop\ToyotaPubSubPOC\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Bbronson\OneDrive - Toyota Industries Group North America\Desktop\ToyotaPubSubPOC\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Bbronson\OneDrive - Toyota Industries Group North America\Desktop\ToyotaPubSubPOC\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Bbronson\OneDrive - Toyota Industries Group North America\Desktop\ToyotaPubSubPOC\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Bbronson\OneDrive - Toyota Industries Group North America\Desktop\ToyotaPubSubPOC\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Bbronson\OneDrive - Toyota Industries Group North America\Desktop\ToyotaPubSubPOC\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\ToyoteWebPubSub.csproj.AssemblyReference.cache
+C:\Users\Bbronson\OneDrive - Toyota Industries Group North America\Desktop\ToyotaPubSubPOC\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\ToyoteWebPubSub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bbronson\OneDrive - Toyota Industries Group North America\Desktop\ToyotaPubSubPOC\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\ToyoteWebPubSub.AssemblyInfoInputs.cache
+C:\Users\Bbronson\OneDrive - Toyota Industries Group North America\Desktop\ToyotaPubSubPOC\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\ToyoteWebPubSub.AssemblyInfo.cs
+C:\Users\Bbronson\OneDrive - Toyota Industries Group North America\Desktop\ToyotaPubSubPOC\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\ToyoteWebPubSub.csproj.CoreCompileInputs.cache
+C:\Users\Bbronson\OneDrive - Toyota Industries Group North America\Desktop\ToyotaPubSubPOC\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\ToyoteWebPubSub.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bbronson\OneDrive - Toyota Industries Group North America\Desktop\ToyotaPubSubPOC\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\ToyoteWebPubSub.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bbronson\OneDrive - Toyota Industries Group North America\Desktop\ToyotaPubSubPOC\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Bbronson\OneDrive - Toyota Industries Group North America\Desktop\ToyotaPubSubPOC\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Bbronson\OneDrive - Toyota Industries Group North America\Desktop\ToyotaPubSubPOC\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\scopedcss\bundle\ToyoteWebPubSub.styles.css
+C:\Users\Bbronson\OneDrive - Toyota Industries Group North America\Desktop\ToyotaPubSubPOC\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\ToyoteWebPubSub.csproj.CopyComplete
+C:\Users\Bbronson\OneDrive - Toyota Industries Group North America\Desktop\ToyotaPubSubPOC\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\ToyoteWebPubSub.dll
+C:\Users\Bbronson\OneDrive - Toyota Industries Group North America\Desktop\ToyotaPubSubPOC\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\refint\ToyoteWebPubSub.dll
+C:\Users\Bbronson\OneDrive - Toyota Industries Group North America\Desktop\ToyotaPubSubPOC\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\ToyoteWebPubSub.pdb
+C:\Users\Bbronson\OneDrive - Toyota Industries Group North America\Desktop\ToyotaPubSubPOC\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\ToyoteWebPubSub.genruntimeconfig.cache
+C:\Users\Bbronson\OneDrive - Toyota Industries Group North America\Desktop\ToyotaPubSubPOC\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\ref\ToyoteWebPubSub.dll
+C:\Users\Bbronson\source\repos\ToyotaPubSubPOC\AngularNotifications\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Bbronson\source\repos\ToyotaPubSubPOC\AngularNotifications\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\appsettings.json
+C:\Users\Bbronson\source\repos\ToyotaPubSubPOC\AngularNotifications\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\ToyoteWebPubSub.exe
+C:\Users\Bbronson\source\repos\ToyotaPubSubPOC\AngularNotifications\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\ToyoteWebPubSub.deps.json
+C:\Users\Bbronson\source\repos\ToyotaPubSubPOC\AngularNotifications\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\ToyoteWebPubSub.runtimeconfig.json
+C:\Users\Bbronson\source\repos\ToyotaPubSubPOC\AngularNotifications\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\ToyoteWebPubSub.dll
+C:\Users\Bbronson\source\repos\ToyotaPubSubPOC\AngularNotifications\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\ToyoteWebPubSub.pdb
+C:\Users\Bbronson\source\repos\ToyotaPubSubPOC\AngularNotifications\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Bbronson\source\repos\ToyotaPubSubPOC\AngularNotifications\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\Azure.Messaging.WebPubSub.dll
+C:\Users\Bbronson\source\repos\ToyotaPubSubPOC\AngularNotifications\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Bbronson\source\repos\ToyotaPubSubPOC\AngularNotifications\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Bbronson\source\repos\ToyotaPubSubPOC\AngularNotifications\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Bbronson\source\repos\ToyotaPubSubPOC\AngularNotifications\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Bbronson\source\repos\ToyotaPubSubPOC\AngularNotifications\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Bbronson\source\repos\ToyotaPubSubPOC\AngularNotifications\ToyoteWebPubSub\ToyoteWebPubSub\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Bbronson\source\repos\ToyotaPubSubPOC\AngularNotifications\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\ToyoteWebPubSub.csproj.AssemblyReference.cache
+C:\Users\Bbronson\source\repos\ToyotaPubSubPOC\AngularNotifications\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\ToyoteWebPubSub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bbronson\source\repos\ToyotaPubSubPOC\AngularNotifications\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\ToyoteWebPubSub.AssemblyInfoInputs.cache
+C:\Users\Bbronson\source\repos\ToyotaPubSubPOC\AngularNotifications\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\ToyoteWebPubSub.AssemblyInfo.cs
+C:\Users\Bbronson\source\repos\ToyotaPubSubPOC\AngularNotifications\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\ToyoteWebPubSub.csproj.CoreCompileInputs.cache
+C:\Users\Bbronson\source\repos\ToyotaPubSubPOC\AngularNotifications\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\ToyoteWebPubSub.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bbronson\source\repos\ToyotaPubSubPOC\AngularNotifications\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\ToyoteWebPubSub.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bbronson\source\repos\ToyotaPubSubPOC\AngularNotifications\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Bbronson\source\repos\ToyotaPubSubPOC\AngularNotifications\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Bbronson\source\repos\ToyotaPubSubPOC\AngularNotifications\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\scopedcss\bundle\ToyoteWebPubSub.styles.css
+C:\Users\Bbronson\source\repos\ToyotaPubSubPOC\AngularNotifications\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\ToyoteWebPubSub.csproj.CopyComplete
+C:\Users\Bbronson\source\repos\ToyotaPubSubPOC\AngularNotifications\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\ToyoteWebPubSub.dll
+C:\Users\Bbronson\source\repos\ToyotaPubSubPOC\AngularNotifications\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\refint\ToyoteWebPubSub.dll
+C:\Users\Bbronson\source\repos\ToyotaPubSubPOC\AngularNotifications\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\ToyoteWebPubSub.pdb
+C:\Users\Bbronson\source\repos\ToyotaPubSubPOC\AngularNotifications\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\ToyoteWebPubSub.genruntimeconfig.cache
+C:\Users\Bbronson\source\repos\ToyotaPubSubPOC\AngularNotifications\ToyoteWebPubSub\ToyoteWebPubSub\obj\Debug\net6.0\ref\ToyoteWebPubSub.dll

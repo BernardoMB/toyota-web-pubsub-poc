@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9e89f68b-d91a-4a4f-ab17-8bc70d086092": {
+      "ProjectGuid": "9e89f68b-d91a-4a4f-ab17-8bc70d086092",
+      "DisplayName": "ToyoteWebPubSub",
+      "ColorIndex": 0
+    },
+    "3944a710-4d41-43a2-9876-7685deec078c": {
+      "ProjectGuid": "3944a710-4d41-43a2-9876-7685deec078c",
+      "DisplayName": "ToyotaConsoleApp",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

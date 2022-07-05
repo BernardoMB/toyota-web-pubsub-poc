@@ -1,0 +1,35 @@
+{
+	"info": {
+		"_postman_id": "0814e9eb-7f2f-4967-9440-e0e06039b479",
+		"name": "ASP.NET Core WebPubSub Chat",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "21576877"
+	},
+	"item": [
+		{
+			"name": "Negotiate: Get WSS",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7020/negotiate?id=1",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7020",
+					"path": [
+						"negotiate"
+					],
+					"query": [
+						{
+							"key": "id",
+							"value": "1"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

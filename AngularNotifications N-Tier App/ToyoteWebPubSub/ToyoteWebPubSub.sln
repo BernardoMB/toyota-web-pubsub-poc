@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyoteWebPubSub", "ToyoteWebPubSub\ToyoteWebPubSub.csproj", "{9E89F68B-D91A-4A4F-AB17-8BC70D086092}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyotaConsoleApp", "ToyotaConsoleApp\ToyotaConsoleApp.csproj", "{3944A710-4D41-43A2-9876-7685DEEC078C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E89F68B-D91A-4A4F-AB17-8BC70D086092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E89F68B-D91A-4A4F-AB17-8BC70D086092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E89F68B-D91A-4A4F-AB17-8BC70D086092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E89F68B-D91A-4A4F-AB17-8BC70D086092}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3944A710-4D41-43A2-9876-7685DEEC078C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3944A710-4D41-43A2-9876-7685DEEC078C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3944A710-4D41-43A2-9876-7685DEEC078C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3944A710-4D41-43A2-9876-7685DEEC078C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5E17E5E-CB3D-40C0-8CEB-657E0CD9981D}
+	EndGlobalSection
+EndGlobal
